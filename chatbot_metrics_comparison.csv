@@ -1,0 +1,5 @@
+Method,,,,context_recall,context_precision
+Chatbot_cosine_similarity_10_evaluation_with_metrics.csv,,,,0.930903061,0.052681618
+Chatbot_cosine_similarity_20_evaluation_with_metrics.csv,,,,0.931362425,0.051495009
+Chatbot_rerank_bm25_10_evaluation_with_metrics.csv,,,,0.93678571,0.052837836
+Chatbot_rerank_bm25_20_evaluation_with_metrics.csv,,,,0.941618625,0.050489495
